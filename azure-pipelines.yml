@@ -1,18 +1,16 @@
 trigger:
-- main
+- master
 
 pool:
   vmImage: 'windows-latest'
 
 variables:
-  - name: browser
-    value: chrome,firefox,edge  # Values for multi-configuration
+  browser: chrome,firefox,edge  # Values for multi-configuration
 
 jobs:
 - job: ParallelBrowserTests
   strategy:
-   parallel: 3   # Number of agents to use
-   matrix:
+    matrix:
       chrome:
         browser: chrome
       firefox:
