@@ -1,0 +1,31 @@
+trigger:
+- main
+
+pool:
+  vmImage: 'windows-latest'
+
+variables:
+  - name: browser
+    value: chrome,firefox,edge  # Values for multi-configuration
+
+jobs:
+- job: ParallelBrowserTests
+  strategy:
+   parallel: 3   # Number of agents to use
+   matrix:
+      chrome:
+        browser: chrome
+      firefox:
+        browser: firefox
+      edge:
+        browser: edge
+  steps:
+  - task: UseDotNet@2
+    inputs:
+      packageType: 'sdk'
+      version: '7.x'
+
+  - script: |
+      dotnet build
+      dotnet run -- $(browser)
+    displayName: 'Run tests on $(browser)'
