@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "M8t1OAqovDw=",
+  "success": true,
+  "projectFilePath": "E:\\DevOps\\DummyScript\\DummyScript\\DummyScript.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\avina\\.nuget\\packages\\selenium.firefox.webdriver\\0.27.0\\selenium.firefox.webdriver.0.27.0.nupkg.sha512",
+    "C:\\Users\\avina\\.nuget\\packages\\selenium.webdriver\\4.27.0\\selenium.webdriver.4.27.0.nupkg.sha512",
+    "C:\\Users\\avina\\.nuget\\packages\\selenium.webdriver.chromedriver\\131.0.6778.20400\\selenium.webdriver.chromedriver.131.0.6778.20400.nupkg.sha512",
+    "C:\\Users\\avina\\.nuget\\packages\\selenium.webdriver.msedgedriver\\131.0.2903.48\\selenium.webdriver.msedgedriver.131.0.2903.48.nupkg.sha512"
+  ],
+  "logs": []
+}

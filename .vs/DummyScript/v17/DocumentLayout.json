@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DevOps\\DummyScript\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCECF15-EC79-4265-A39C-16A447B8DD20}|DummyScript\\DummyScript.csproj|e:\\devops\\dummyscript\\dummyscript\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCECF15-EC79-4265-A39C-16A447B8DD20}|DummyScript\\DummyScript.csproj|solutionrelative:dummyscript\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCECF15-EC79-4265-A39C-16A447B8DD20}|DummyScript\\DummyScript.csproj|e:\\devops\\dummyscript\\dummyscript\\dummyscript.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4BCECF15-EC79-4265-A39C-16A447B8DD20}|DummyScript\\DummyScript.csproj|solutionrelative:dummyscript\\dummyscript.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DummyScript",
+              "DocumentMoniker": "E:\\DevOps\\DummyScript\\DummyScript\\DummyScript.csproj",
+              "RelativeDocumentMoniker": "DummyScript\\DummyScript.csproj",
+              "ToolTip": "E:\\DevOps\\DummyScript\\DummyScript\\DummyScript.csproj",
+              "RelativeToolTip": "DummyScript\\DummyScript.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-03T08:02:13.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DevOps\\DummyScript\\DummyScript\\Program.cs",
+              "RelativeDocumentMoniker": "DummyScript\\Program.cs",
+              "ToolTip": "E:\\DevOps\\DummyScript\\DummyScript\\Program.cs",
+              "RelativeToolTip": "DummyScript\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:01:50.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
